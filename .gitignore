@@ -2,3 +2,6 @@
 ConverterTest/obj
 .vs
 ConverterTest/bin/Debug
+MeasurementConverter/obj
+PaceConverter/obj
+VehicleConverter/obj

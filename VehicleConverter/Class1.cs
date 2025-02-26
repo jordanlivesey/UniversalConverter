@@ -1,4 +1,4 @@
-﻿namespace Common
+﻿namespace VehicleConverter
 {
     public class Class1
     {
